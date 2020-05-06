@@ -1,2 +1,2 @@
-# Stark
-Minimal, responsive and modern CSS &amp; Javascript framework
+# Lærer Labs
+Design Stuffs, Creative Works like web templates, themes etc.,
